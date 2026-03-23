@@ -1,3 +1,7 @@
 git is awesome!
-new line
+
 experiment with amend
+New sentense
+New sometring
+
+Add something more
